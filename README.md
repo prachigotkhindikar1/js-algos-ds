@@ -1,2 +1,6 @@
 # js-algos-ds
-Colt Steele's Javascript and Data Structures MasterClass
+
+Resources:
+
+* Colt Steele's Javascript and Data Structures MasterClass
+* Aditya Verma Dynamic Programming Playlist : https://youtu.be/nqowUJzG-iM
